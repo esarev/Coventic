@@ -35,6 +35,11 @@ button {
     border-radius: 20px;
     cursor: pointer;
 }
+button:hover {
+    background: #fff;
+    color: #00545d;
+    transition: .7s;
+}
 .content {
     color: #fbfcfd;
     position: absolute;
